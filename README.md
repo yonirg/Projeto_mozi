@@ -2,7 +2,7 @@
 ## Projeto de conclusao do segundo módulo do curso de desenvolvimento web da Resilia Educação
 
 
-# Sobre
+# Sobre:
  <img src="front/models/imgs/logo.png"/>
  Nós somos a Mozi, a mais nova plataforma de streaming do mercado. Contamos com 3 planos diferente para atender a demanda de cada usuario.
  
@@ -13,7 +13,7 @@
 
 # Como utilizar:
 
-- [Clique aqui para acessar o sistema]()
+- [https://yonirg.github.io/Projeto_mozi/]()
 - Na tela de login, utilize nossos usuarios pré cadastrados
 - usuario emailjunior@gmail.com e senha: senhaCorreta para acessar nosso perfil Junior
 - usuario emailsenior@gmail.com e senha: senhaCorreta para acessar nosso perfil Senior
