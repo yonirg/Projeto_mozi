@@ -2,7 +2,7 @@
 ## Projeto de conclusao do segundo módulo do curso de desenvolvimento web da Resilia Educação
 
 
-# Sobre:
+# Sobre
  <img src="front/models/imgs/logo.png"/>
  Nós somos a Mozi, a mais nova plataforma de streaming do mercado. Contamos com 3 planos diferente para atender a demanda de cada usuario.
  
