@@ -13,7 +13,7 @@
 
 # Como utilizar:
 
-- [https://yonirg.github.io/Projeto_mozi/]()
+- Acesse o sistema aqui: https://yonirg.github.io/Projeto_mozi/
 - Na tela de login, utilize nossos usuarios pré cadastrados
 - usuario emailjunior@gmail.com e senha: senhaCorreta para acessar nosso perfil Junior
 - usuario emailsenior@gmail.com e senha: senhaCorreta para acessar nosso perfil Senior
