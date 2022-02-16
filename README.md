@@ -3,9 +3,10 @@
 
 
 # Sobre:
-Desenvolvido por: Yonathan Rabinovici Gherman, Ana Couto, Fernanda Pereira, Giovanni Clayton, Rodrigo William, Tiago Medeiros, Wesley Rodrigues
+## Desenvolvido por: Yonathan Rabinovici Gherman, Ana Couto, Fernanda Pereira, Giovanni Clayton, Rodrigo William, Tiago Medeiros, Wesley Rodrigues
+## -> Nós somos a Mozi, a mais nova plataforma de streaming do mercado. Contamos com 3 planos diferente para atender a demanda de cada usuario. 
  <img src="front/models/imgs/logo.png"/>
- Nós somos a Mozi, a mais nova plataforma de streaming do mercado. Contamos com 3 planos diferente para atender a demanda de cada usuario.
+ 
  
  # Planos:
 - Plano Junior: as melhores animações
