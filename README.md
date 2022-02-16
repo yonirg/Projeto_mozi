@@ -3,6 +3,7 @@
 
 
 # Sobre:
+Desenvolvido por: Yonathan Rabinovici Gherman, Ana Couto, Fernanda Pereira, Giovanni Clayton, Rodrigo William, Tiago Medeiros, Wesley Rodrigues
  <img src="front/models/imgs/logo.png"/>
  Nós somos a Mozi, a mais nova plataforma de streaming do mercado. Contamos com 3 planos diferente para atender a demanda de cada usuario.
  
